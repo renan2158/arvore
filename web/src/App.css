@@ -1,0 +1,31 @@
+:root {
+  --primary-color: #33EFA3;
+  --title-color: #FFF;
+  --text-color: #FFF;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  color: var(--text-color);
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body, input, button {
+  font-family: Comfortaa, cursive;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--title-color);
+
+  font-size: 24px;
+  font-family: Comfortaa, cursive;
+}
