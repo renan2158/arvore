@@ -10,8 +10,16 @@
 </p>
 
 <h1 align="center">
-  <strong>This project was one of the challenges proposed at the <a href="https://www.megahack.com.br/">Mega Hack</a> 3.0, and in this project, we remade the whole design and user experience on either mobile and website.</strong>
+  <strong>This project was the solution developed by our team for one of the challenges proposed at the <a href="https://www.megahack.com.br/">Mega Hack</a> 3.0, we reimagined the whole design and user experience on either mobile and website.</strong>
 </h1>
+
+### :dart: The challenge
+
+The challenge proposed by the <a href="https://www2.arvoredelivros.com.br/">Árvore de Livros</a> was: how to democratize the acess and encourage students to read more?
+
+The <a href="https://www2.arvoredelivros.com.br/">Árvore de Livros</a> works only with schools and their goal is to change the reading education culture in Brazil. The company has a digital platform for the students at the partner schools. The students access the platform for reading digital books and for doing custom tasks proposed by their teacher.
+
+We realized that each student interacts with the platform for a long time, so we tried to focus on changing the way the platform interacts with the students. We tried to make it more flashy, intuitive, and pleasant to use. We worked with colors, animations, and either a background sound. And finally, we proposed some improvements for the league used in the platform.
 
 ### :fire: Technologies used in the development
 
@@ -25,6 +33,8 @@
 
 ---
 
+### :computer: Website
+
 <p align="center">
   <img style="border-radius: 20px" src="./imgs/Web.gif" /><br>
 </p>
@@ -32,5 +42,5 @@
 ---
 
 <p align="center">
-  <strong>Project at the <a href="https://www.megahack.com.br/">Mega Hack</a> 3.0</strong></br>
+  :construction: <strong>Project developed at the <a href="https://www.megahack.com.br/">Mega Hack</a> 3.0</strong></br>
 </p>
